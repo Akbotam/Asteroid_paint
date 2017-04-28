@@ -43,6 +43,16 @@ namespace Asteroids
             shape4 = new Triangle(600, -40);
         }
 
+        private void pictureBox1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void Form1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
         private void Form1_Load(object sender, EventArgs e)
         {
 
